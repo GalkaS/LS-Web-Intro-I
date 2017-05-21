@@ -1,0 +1,31 @@
+.red {
+	background-color: red;
+	height: 750px;
+	width: 900px;
+	padding-top: 150px;
+}
+
+.purple {
+	background-color: purple;
+	width: 900px;
+	height: 600px;
+	float: auto;
+}
+.blue {
+	background-color: blue;
+	width: 300px;
+	height: 600px;
+	float: left;
+	
+}
+.yellow {
+	background-color: yellow;
+	width: 300px;
+	height: 600px;
+	float: right;
+}
+.green {
+	background-color: green;
+	height: 150px;
+	width: 900px;
+}
